@@ -11,7 +11,7 @@ body{
     line-height:1.7;
 }
 
-/* HEADER */
+
 .header{
     display:flex;
     justify-content:space-between;
@@ -24,7 +24,7 @@ body{
     box-shadow:0 4px 15px rgba(255, 77, 136, 0.3);
 }
 
-/* PROFILE IMAGE */
+
 .profile-img{
     width:130px;
     height:130px;
@@ -39,13 +39,12 @@ body{
     transform: scale(1.05);
 }
 
-/* MAIN */
 main{
     width:75%;
     margin:40px auto;
 }
 
-/* SECTIONS */
+
 section{
     background:white;
     padding:25px;
@@ -60,7 +59,6 @@ section:hover{
     transform: translateY(-5px);
 }
 
-/* HEADINGS */
 h2{
     color:#ff4d88;
     margin-bottom:12px;
@@ -72,17 +70,16 @@ h3{
     color:#444;
 }
 
-/* LIST */
 ul{
     margin-left:20px;
 }
 
-/* CONTACT */
+
 .contact{
     text-align:center;
 }
 
-/* BUTTON */
+
 .btn{
     display:inline-block;
     background: linear-gradient(135deg, #ff4d88, #ff99bb);
